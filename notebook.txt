@@ -14,5 +14,7 @@
 9/12	Ying Zou	17:27	17:40	0		0		13		Refinished Q1-Q5\
 9/12	Ying Zou	17:41	17:47	0		0		6		Reviewed Q6-Q10\
 ===================committing to git: 9/12  17:48=======================\
+9/12	Ying Zou	18:06	18:17	0		1		11		Refinished Q12-Q14, for Q11, not so sure what "contract" is and cannot highlight "make-posn" and press F1\
+===================committing to git: 9/12 18:19=======================\
 \
 }
