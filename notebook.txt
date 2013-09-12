@@ -9,7 +9,10 @@
 9/11	Ying Zou	12:35	12:41	0		0		6		Finished Q6\
 9/11	Ying Zou	12:42	12:53	0		1		11		Finished Q7, tried to run a function\
 9/11	Ying Zou	12:53	13:03	0		0		10		Finished Q8\
-9/11	Ying Zou	13:03	13:15	0		2		12		Finished Q9, could't highlight the operator remainder and press F1 so tried on examples to understand it; even? is a existed operator so defined even?? instead.\
-9/11	Ying Zou	13:15	13:28	0		1		13		Finished Q10, used conditional at first and replaced it in a easier way\
-===================committing to git: 9/12  9:07=======================\
+9/11	Ying Zou	13:03	13:15	0		2		12		Finished Q9, used conditional at first and replaced it in a easier way; even? is an existed operator so defined even?? instead.\
+9/11	Ying Zou	13:15	13:28	0		0		13		Finished Q10 ===================committing to git: 9/12  9:07========================\
+9/12	Ying Zou	17:27	17:40	0		0		13		Refinished Q1-Q5\
+9/12	Ying Zou	17:41	17:47	0		0		6		Reviewed Q6-Q10\
+===================committing to git: 9/12  17:48=======================\
+\
 }
