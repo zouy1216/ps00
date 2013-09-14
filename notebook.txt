@@ -16,5 +16,10 @@
 ===================committing to git: 9/12  17:48=======================\
 9/12	Ying Zou	18:06	18:17	0		1		11		Refinished Q12-Q14, for Q11, not so sure what "contract" is and cannot highlight "make-posn" and press F1\
 ===================committing to git: 9/12 18:19=======================\
+9/12	Ying Zou	18:24	18:26	0		0		2		Continued reading and finished Q11\
+9/14	Ying Zou	16:21	16:25	0		0		4		Finished Q15\
+===================committing to git: 9/14  16:26=======================\
+\
+\
 \
 }
